@@ -5,13 +5,13 @@ NODE_ID = 7
 # Mode
 API_INTERFACE = 'modwebapi'         # glzjinmod, modwebapi
 
-WEBAPI_URL = 'https://xmucloud.com'
-WEBAPI_TOKEN = 'key-net999$xmu+-%~.;ytf@*ytv76'
+WEBAPI_URL = ''
+WEBAPI_TOKEN = ''
 
 
 # onport for multiple users, set also in SS-PANEL - .config.php
-MU_SUFFIX = 'microsoft.com'
-MU_REGEX = '%8m%id.%suffix'
+MU_SUFFIX = ''
+MU_REGEX = ''
 
 
 # second
