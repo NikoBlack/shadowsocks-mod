@@ -1,5 +1,5 @@
 # Config
-NODE_ID = 7
+NODE_ID = 5
 
 
 # Mode

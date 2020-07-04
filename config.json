@@ -11,9 +11,10 @@
     "method": "aes-256-cfb",
     "protocol": "auth_aes128_md5",
     "protocol_param": "",
-    "obfs": "tls1.2_ticket_auth_compatible",
+    "obfs": "tls1.2_ticket_auth",
     "obfs_param": "",
     "speed_limit_per_con": 0,
+
 
     "out_bind": "",
     "dns_ipv6": false,

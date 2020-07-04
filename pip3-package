@@ -1,0 +1,9 @@
+cymysql
+requests
+pyOpenSSL
+ndg-httpsclient
+pyasn1
+pycparser
+pycryptodome
+idna
+speedtest-cli
